@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarveyL-LCWC.
-- 👀 I’m interested in F1 & Gaming.
-- 🌱 I’m currently learning a Level 3 Course in Networking/Cybersecurity & Software Development. 
-- 📫 How to reach me = 30075233@lcwc.ac.uk
+- Hi, I’m @HarveyL-LCWC.
+- I’m interested in F1 & Gaming.
+- I’m currently learning a Level 3 Digital Course in Networking/Cybersecurity & Software Development. 
+- How to reach me = 30075233@lcwc.ac.uk
